@@ -1,1 +1,1 @@
-# Codility-Java
+# Practice Java programs
